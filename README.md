@@ -1,7 +1,7 @@
 # Tarneit-Anslysis-Dashboard
 This analysis dashboard examines different aspects of Tarneit for the purpose of investment value evaluation.
 
-[!screenshot](/Tarneit-dashboard.png?raw=true "Optional Title")
+[!screenshot](/Tarneit-dashoboard.png?raw=true "Optional Title")
 
 
 [Click here for Dashboard]
