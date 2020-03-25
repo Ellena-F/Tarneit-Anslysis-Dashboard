@@ -7,7 +7,7 @@ This analysis dashboard examines different aspects of Tarneit for the purpose of
 
 
 
-[Click here for Dashboard](https://public.tableau.com/views/Tarneitresearch/Story1?:display_count=y&publish=yes&:origin=viz_share_link)
+[Click here for Interactive Dashboard](https://public.tableau.com/views/Tarneitresearch/Story1?:display_count=y&publish=yes&:origin=viz_share_link)
 
 It includes:
 - Analysis of surrounding area
